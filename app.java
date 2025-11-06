@@ -18,3 +18,4 @@ class Vehicle {
 
 new code by dev-1 without pull the code
 >>>>>>> Stashed changes
+We are adding some more data to know about fetch and merge
